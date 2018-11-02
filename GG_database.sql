@@ -74,10 +74,10 @@ INSERT INTO Activity VALUES (4,'Work on CS262 project', 'PoolSide', 'Update the 
 
 
 
-INSERT INTO Schedule (1, 1, 1);
-INSERT INTO Schedule (2, 3, 2);
-INSERT INTO Schedule (3, 4, 3);
-INSERT INTO Schedule (4, 2, 3);
+INSERT INTO Schedule VALUES (1, 1, 1);
+INSERT INTO Schedule VALUES (2, 3, 2);
+INSERT INTO Schedule VALUES (3, 4, 3);
+INSERT INTO Schedule VALUES (4, 2, 3);
 
 
 
