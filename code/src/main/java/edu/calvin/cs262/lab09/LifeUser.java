@@ -15,7 +15,7 @@ public class LifeUser {
     public LifeUser() {
         // The JSON marshaller used by Endpoints requires this default constructor.
     }
-    public Player(int id, String emailAddress, String name) {
+    public LifeUser(int id, String emailAddress, String name) {
         this.id = id;
         this.emailAddress = emailAddress;
         this.name = name;
