@@ -75,7 +75,7 @@ import static com.google.api.server.spi.config.ApiMethod.HttpMethod.DELETE;
  *    https://calvincs262-monopoly.appspot.com/monopoly/v1/player/4
  *
  */
-public class PlayerResource {
+public class LifeUserResource {
 
     /**
      * GET
